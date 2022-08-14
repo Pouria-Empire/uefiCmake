@@ -24,3 +24,8 @@ $ sudo qemu-system-x86_64 -L . --bios ~/Documents/OVMF.fd -hda ~/Documents/test.
 
 Noticed my mounted device name is : */dev/loop45* . 
 and remmeber to customize following paths : the OVMF, test.image (Our boot device emulated) and the test2.img (Our USB device emulated)
+
+## Screenshots
+
+![App Screenshot](test.png)
+
