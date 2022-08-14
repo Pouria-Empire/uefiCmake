@@ -6,7 +6,7 @@ Please follow the steps explained in **CreateProjectClion** folder.
 
 ### Runnig EFI Project By hand 
 If you have any problem following the steps explaind in **CreateProjectClion** please follow the steps explained in 
-**CreateQemuByFIle** and copy the efi application built in the memory
+**CreateQemuByFIle** and copy the efi application built, on to the usb connected
 
 ### Runnig Qmeu with usb connected example:
 In this part you can emulate the usb connect to qemu In addition to the Readme.md explained on above directories.
